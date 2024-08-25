@@ -7,7 +7,10 @@ This is pretty much a frankenstein monster made using things from the below two 
 All credits to them for making things work.
 
 **OpenCore Version: [1.0.1 Offical](https://github.com/acidanthera/OpenCorePkg)**
-
+ MacOS Version: 14.4 Sonoma
+ :-------------------------:
+ ![alt text](https://raw.githubusercontent.com/captain-nemo1/acer-aspire-7-efi/main/images/Screenshot_2024-08-25_at_2.29.43_PM.webp)
+ 
 ## System Information
 
 | Specifications | Detail                                                  |
