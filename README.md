@@ -7,7 +7,7 @@ This is pretty much a frankenstein monster made using things from the below two 
 All credits to them for making things work.
 
 **OpenCore Version: [1.0.1 Offical](https://github.com/acidanthera/OpenCorePkg)**
- MacOS Version: 14.4 Sonoma
+ MacOS Version: 14.6.1 Sonoma
  :-------------------------:
  ![alt text](https://raw.githubusercontent.com/captain-nemo1/acer-aspire-7-efi/main/images/Screenshot_2024-08-25_at_2.29.43_PM.webp)
  
@@ -44,7 +44,7 @@ All credits to them for making things work.
 - [x] Inbuilt microphone
 
 ## Special stuff done here:
- - Used AirportItlwm_v2.3.0_stable_Sonoma14.4.kext.zip for Somona 14.4
+ - Used AirportItlwm_v2.3.0_stable_Sonoma14.4.kext.zip for Somona 14.4+
  - Added -igfxblt -igfxbls to boot args since without it we were booting into a black screen.
  - SecureBoot is disbaled since Sonoma requires that.
 
