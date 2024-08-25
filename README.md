@@ -1,5 +1,5 @@
 # acer-aspire-7-efi
-EFI for booting Mac macOS Sonoma
+EFI for booting MacOS Sonoma
 
 This is pretty much a frankenstein monster made using things from the below two repo:
 - https://github.com/AbhaySingh15/Acer-aspire-7-A715-75G-Opencore-EFI/tree/main
@@ -52,13 +52,13 @@ All credits to them for making things work.
 - Discrete nvidia gtx 1650 gpu
 - HDMI port (since it's connected to the GTX 1650).
 
-### Install
+## Install
 - Generate your own [smbios](https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html#using-gensmbios) and makes changes in the EFI/OC/config.plist based on that.
 - Create your MacOs recovery [USB](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/)
 - Put the EFI folder from here to your your USB.
 - Boot into the USB and select Macbook Installer.
 
-### Post Install
+## Post Install
 
 - Clone the [ComboJack repo](https://github.com/hackintosh-stuff/ComboJack) and run the installer inside the `ComboJack_Installer` folder to get the jack port working correctly.
 - Run the following commands for sleep wake:
